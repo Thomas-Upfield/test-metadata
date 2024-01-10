@@ -1,0 +1,15 @@
+{
+    "hashAlgorithm": "blake2b-256",
+    "authors": [
+      { "name": "Dr Edward Partridge", "witness": { "witnessAlgorithm": "ed25519", "publicKey": "46e4db7f87497ba232977ccd591b3d040316b155e8c60e3ea49176c03fa269de", "signature": "abcd"}}
+    ],
+    "body": {
+      "references": [
+        { "@type": "other", "label": "Github", "uri": "https://github.com/Uppers" }
+      ],
+      "comment": "This is the roadmap I think we should follow for the next year... etc.etc. ",
+      "externalUpdates": [
+        { "title": "Twitter", "uri": "https://twitter.com/IntersectMBO" }
+      ]
+    }
+  }
